@@ -20,7 +20,7 @@ The project also uses **EF Core** with a **SQLite** database following the Code-
 ## 📝 Related Blog Post
 
 You can read the related Medium article here:
-👉 [AutoMapper Nedir? .NET ile AutoMapper Kullanımı)](https://medium.com/@sinanganiz/automapper-nedir-net-ile-automapper-kullan%C4%B1m%C4%B1-214a47cc9b29)
+👉 [AutoMapper Nedir? .NET ile AutoMapper Kullanımı](https://medium.com/@sinanganiz/automapper-nedir-net-ile-automapper-kullan%C4%B1m%C4%B1-214a47cc9b29)
 
 ## 🛠️ Getting Started
 
